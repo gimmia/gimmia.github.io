@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: gimmia blog # the main title
+title: Gimmia Blog # the main title
 
 tagline: Linux kernel 1-day study blogs # it will display as the subtitle
 
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Gimmia Blog
+  name: gimmia
   email: gimm78064@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
