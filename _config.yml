@@ -34,12 +34,12 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: gimmia
+  name: 김민규
   email: gimm78064@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/gimmia # change to your GitHub homepage
+    - https://www.notion.so/314cf32225178085b52ed687dbf6f865 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
